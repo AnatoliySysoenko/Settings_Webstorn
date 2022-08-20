@@ -1,0 +1,30 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="EslintConfiguration">
+        <option name="fix-on-save" value="true" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollToSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "nodejs_interpreter_path": "node",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint"
+  }
+}]]></component>
+    </defaultProject>
+  </component>
+</application>
