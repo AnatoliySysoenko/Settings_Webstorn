@@ -37,4 +37,20 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="qs" value="const $VAR0$ = document.querySelector('$VAR0$')" description="querySelector" toReformat="false" toShortenFQNames="false">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JSP" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="qsa" value="const $VAR0$ = document.querySelectorAll('$VAR0$')" description="querySelectorAll" toReformat="false" toShortenFQNames="false">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JSP" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
